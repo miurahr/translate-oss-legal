@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="JA"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="JA">
+        <seg>2011年3月</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T004715Z" creationid="miurahr" creationdate="20150908T004715Z">
+        <seg>2011 March</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>「ソフトウェアと法務」</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T004628Z" creationid="miurahr" creationdate="20150908T004628Z">
+        <seg>Software and Legal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>さらにその背景にある法務知識としての知的財産権について解説し、OSSに関し現在、社会で問題になって&lt;t2/&gt;いる事例について解説する。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T021304Z" creationid="miurahr" creationdate="20150908T020017Z">
+        <seg>And explain Intelectual property that is background for license. Also explains cases which is issues in sociaty around OSS now.&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>オープンソフトウェア利用促進事業</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T004508Z" creationid="miurahr" creationdate="20150908T004444Z">
+        <seg>Open Software Utilize Promotion Program</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>内容としては、今後の社会で不可欠な存在になると予想されるOSSについて、OSSの基礎になっている 「ライセンス」 に関する基本を解説している。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T021155Z" creationid="miurahr" creationdate="20150908T021155Z">
+        <seg>There is a content includes basics of OSS lisence, because OSS will be more important than before, and  vital part in future society.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>本講義の内容は、ソフトウェアとビジネス・社会の接点を他の講義には無い角&lt;t1/&gt;度から解説している点に特徴がある。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T021023Z" creationid="miurahr" creationdate="20150908T015658Z">
+        <seg>There is speciality of this lecture that explains from a view point  of a contact point between software, and business and society &lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>本講義の教材は、OSSモデルカリキュラムを基にして新規に作成され&lt;t0/&gt;たものである。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T005151Z" creationid="miurahr" creationdate="20150908T005151Z">
+        <seg>This material is created  based on OSS model curriculum.&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第1回では、今日の社会でのソフトウェアの位置づけ&lt;t0/&gt;、商用ソフトウェアの開発から利用まで、ソフトウェアと知的財産権、オープンソース・ソフトウェアの生い立ちなど、本講義全体を通して学ぶ事項の概要を説明している。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T021727Z" creationid="miurahr" creationdate="20150908T020850Z">
+        <seg>In 1st lecture, explains position of software placed in the current society&lt;t0/&gt;, from development of production software to its application,  software and interectual property, and birth of opensource software. There is brief abstraction of this series of lecutres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第2回から第5回までは、ビジネスを意識したライセンスの話題をOSSと商用ラ&lt;t0/&gt;イセンスの違い、主要ライセンス概説、目的に応じたライセンスの選択について説明している。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T021731Z" creationid="miurahr" creationdate="20150908T021731Z">
+        <seg>第2回から第5回までは、ビジネスを意識したライセンスの話題をOSSと商用ラ&lt;t0/&gt;イセンスの違い、主要ライセンス概説、目的に応じたライセンスの選択について説明している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第3回OSSモデルカリキュラム導入実証</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T004536Z" creationid="miurahr" creationdate="20150908T004536Z">
+        <seg>Third initiative for OSS Model Curriculum </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>講義の概要</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T004736Z" creationid="miurahr" creationdate="20150908T004736Z">
+        <seg>Brief overview of lecture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>講義の概要を下記に示す。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T004810Z" creationid="miurahr" creationdate="20150908T004810Z">
+        <seg>The following is a brief overview of lecture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>講義ノート</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T004709Z" creationid="miurahr" creationdate="20150908T004709Z">
+        <seg>Lecture note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>講義全体の設計に際しては、下記に示す全体の流れに留意して講義を組み立てるように注意されたい。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T005103Z" creationid="miurahr" creationdate="20150908T005103Z">
+        <seg>Note that lectureler should design their lecture course according to following caution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>講義全体を通して、実社会での今後の動向を追うための基礎を身につけさせるという目的を持っている。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T021411Z" creationid="miurahr" creationdate="20150908T020105Z">
+        <seg>Throughout a series of lecture, we have a purpose that student learns basics of knowlege to track movement and trend in acutual society.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>（株）三菱総合研究所</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T004726Z" creationid="miurahr" creationdate="20150908T004726Z">
+        <seg>Mitsubishi Research Institute</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
