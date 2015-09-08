@@ -1,0 +1,15 @@
+商用ソフトウェア	commercial software
+OSSライセンス	OSS licenses
+利用許諾契約書	license agreement
+OSSモデルカリキュラム	OSS model curriculum
+オープンソース・ソフトウェア	OpenSource Software
+訴訟	infringement
+OSSコミュニティ	OSS communities
+法的課題	leagal issues
+知的財産権	intellectual property
+ソフトウェア	software
+ライセンス	license
+著作権	copyright
+特許権	patent
+商標権	trademark
+GPLをベースとするソフトウェア	GPL-ed software

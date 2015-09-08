@@ -14,6 +14,262 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>Apacheなど、重要なソフトウェアがBSDライセンスにて提供されていることに触れる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150909T063755Z" creationid="miurahr" creationdate="20150909T063755Z">
+        <seg>There are many BSD licensed important software such as Apache http server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>BSDライセンスは、再&lt;t0/&gt;頒布の条件として著作権表示、ライセンス条文、ソフトウェアについて保証が無いという「免&lt;t1/&gt;責条項」をドキュメントに記載すればよく、オリジナルに追加したコードを公開する義務が無いため、GPLに比べて商用に利用しやすいということ。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T013727Z" creationid="miurahr" creationdate="20150909T064256Z">
+        <seg>In BSD license, a condition &lt;t0/&gt; for redistribution is very simple that is just to include copyright holder, license codes, and no guarantee of software -  &lt;t1/&gt;"disclaimer"  in document, and no obligation to publish its source code. It is easier to use commercial software than GPL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Copyright ⓒ Mitsubishi Research Institute, Inc.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T101935Z" creationid="miurahr" creationdate="20150908T101935Z">
+        <seg>Copyright ⓒ Mitsubishi Research Institute, Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Developer’s Certificate of Originによりコードの正当性を維持担保できるということ</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150909T051314Z" creationid="miurahr" creationdate="20150909T051314Z">
+        <seg>Validity of source code  is protected by Developer's Certificate of Origin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>GPLのソフトウェアはOSSのライセンスとして多数使われているので、全く使わないということは難しい場合もあるということ</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150911T063005Z" creationid="miurahr" creationdate="20150911T063005Z">
+        <seg>There are so many GPL-ed software which is vital for everyday life, it is quite difficult not to use any GPL-ed software  ever.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>GPLの二つの特徴である、Copyleftと派生物の範囲について</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T013514Z" creationid="miurahr" creationdate="20150909T013301Z">
+        <seg>Two big characters of GPL;  Copyleft and deliverable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>GPLの伝搬性について、簡単に復習をした後で、GPLの伝搬性とリスクについて説明する。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012205Z" creationid="miurahr" creationdate="20150911T063759Z">
+        <seg>After review of propagation of GPL, explain risks from GPL propagation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Linuxを扱うベンダーが訴えられる事例を経て、OSS関連団体が結束してOSSへの提訴事例へ対応する体制が整備されているという動向を把握する。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012908Z" creationid="miurahr" creationdate="20150908T230834Z">
+        <seg>OSS related associations make a unite effort to build system treating cases of OSS legal challenges  after suing case toward  Linux vendors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>MPLから派生したライセンスや、MPLや派生ライセンスを利用したソフトウェアの質と量について強調して伝えることで、商用向きであることを実感させる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T013620Z" creationid="miurahr" creationdate="20150909T032913Z">
+        <seg>Emphasize commercial software business on MPL and MPL derivative licenses, through MPL-ed OSS quantity and quality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>MPLの歴史背景とともに、MPLは企業がソフトウェアでのビジネスを展開することにうまく使えるような条件を付加してあるという点を強調する。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150909T032719Z" creationid="miurahr" creationdate="20150909T032719Z">
+        <seg>Emphasize both history and its background of MPL, and conditions for company that can use for software business.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>MPLはオープンソースの特徴である&lt;f0&gt; &lt;/f0&gt;Copyleft を取り込みながらも、実際に企業がソフトウェアでのビジネスを展開することにうまく使えるような条件を付加してあること</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150909T032414Z" creationid="miurahr" creationdate="20150909T032414Z">
+        <seg>MPL has a feature of &lt;f0&gt; &lt;/f0&gt;Copyleft  but it also has conditions that is good for software business with published company.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>MPLは企業がオープンソース・ライセンスで&lt;t0/&gt;新たにソフトウェアを公開する際に参照されることが多く、すでに類似のライセンスが多数存在すること</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150909T032304Z" creationid="miurahr" creationdate="20150909T032304Z">
+        <seg>There are many similar licenses with MPL,  that is refered as good example of business OSS license from companies which is interested in publish their software as OSS.&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>OSI(Open Source Initiative) が定めた10項目に適合したライセンスで配布されるソフトウェアをオープンソース・ソフトウェア(OSS)と呼ぶこと</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150911T071601Z" creationid="miurahr" creationdate="20150908T100427Z">
+        <seg>We can call software  as OSS that is distributed under licenses that is suited with10 terms of  OSS definition by OSI(Open Source Initiative). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>OSSが特許を侵害する経緯</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150909T063208Z" creationid="miurahr" creationdate="20150909T063208Z">
+        <seg>How OSS infringed with patent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>OSSであっても商標に関しては他のソフトウェア&lt;t0/&gt;と同じ法の下で扱われており、商標が必要な場合には早期に確保しておく必要があるということ</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T014020Z" creationid="miurahr" creationdate="20150909T062839Z">
+        <seg>Even in OSS, we need to be compliance with trademarks. &lt;t0/&gt;Because trademark is common with OSS and other software, and if the project use some trademark, the project should ensure the right to use.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>OSSと商用ライセンスの目的、料金、関係者における違いについて</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150911T071423Z" creationid="miurahr" creationdate="20150908T100516Z">
+        <seg>Difference  in purpose, fee and stakeholder among OSS and business licenses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>OSSと知的財産権は今後のビジネスシーンでも重要なポイントになること</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T101743Z" creationid="miurahr" creationdate="20150908T101743Z">
+        <seg>OSS and IP is an important point in business.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>OSSと著作権、特許権、商標権の関係についての整理</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012118Z" creationid="miurahr" creationdate="20150909T153159Z">
+        <seg>relationship among OSS, copyright, patent, and trademark</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>OSSのコミュニティによる開発スタイル</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T101255Z" creationid="miurahr" creationdate="20150908T101255Z">
+        <seg>Development style in OSS communities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>OSSのコンサルテーションや保険サービスについて</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012353Z" creationid="miurahr" creationdate="20150908T231219Z">
+        <seg>Consultation services and insurance services for OSS utilization.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>OSSのソースコードが商用ソフトウェアへ混入するリスク対策としてのソリューションについて</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T231111Z" creationid="miurahr" creationdate="20150908T231111Z">
+        <seg>Solutions example for risk management protecting against OSS source code merger into business software. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>OSSのビジネスの事例を説明する際に、受講者の前提知識によっては、各企業の社会における&lt;t0/&gt;位置づけ、会社規模などの説明も追加する。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012431Z" creationid="miurahr" creationdate="20150908T231449Z">
+        <seg>When explain OSS business case study, lecturer can add an explanations of a scale and position of several major OSS companies  &lt;t0/&gt;according with students knowledge level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>OSSのライセンス条件はキーとなる存在であること</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T095225Z" creationid="miurahr" creationdate="20150908T093004Z">
+        <seg>OSS License condition is a key component.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>OSSの各パッチにはそれぞれ作成者に著作権があるので、このパッチをソースコードに適用すれば、適用した部分のソースコードはパッチ作者の著作物となるということ</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012303Z" creationid="miurahr" creationdate="20150909T051220Z">
+        <seg>When some patch applied to source code, the source code is a work of joint authors,  because each patch is  copyrighted by a patch creator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>OSSの開発や利用の際にOSSライセンスとどのように付き合うべきか</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T100551Z" creationid="miurahr" creationdate="20150908T100551Z">
+        <seg>How we should treat OSS licenses when developing or using OSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>OSSは今後のイノベーションの源泉であること</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T101707Z" creationid="miurahr" creationdate="20150908T101707Z">
+        <seg>OSS is a fuel of Innovation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>OSSは特許のモデルと合致しにくい面が多いこと</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T230156Z" creationid="miurahr" creationdate="20150908T230156Z">
+        <seg>There are some collision between OSS and patent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>OSSライセンスと著作権の関係</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T232450Z" creationid="miurahr" creationdate="20150908T232450Z">
+        <seg>Relationship between OSS license and copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>OSSライセンスに関するリスク</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T101328Z" creationid="miurahr" creationdate="20150908T101328Z">
+        <seg>Risk on OSS license</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>OSS利用に関するリスク</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T101220Z" creationid="miurahr" creationdate="20150908T101220Z">
+        <seg> Risks of OSS utilization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>SCO訴訟、GPL違反訴訟の事例を通じた、GPL侵害のリスクへの対応について</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T224945Z" creationid="miurahr" creationdate="20150908T224945Z">
+        <seg>Understanding risks of GPL infringement through SCO case, and court challenge against GPL infringement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>SCO訴訟の結果、エンドユーザにまでライセンス料を取ろうとしたなどのリスク&lt;t0/&gt;が増加したため、訴訟ファンドや保険が誕生するなど、社会的な問題として受け止められていたことを認識させる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012620Z" creationid="miurahr" creationdate="20150908T225523Z">
+        <seg>Understand that OSS legal case was accepted as a social issue. Some company and non-profit entities have started  law suit fund and insurance against  OSS legal risks, because the risk has been actualized and raised such as law suit challenge against end users of OSS in the SCO legal case.&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>「ソフトウェアと法務」</seg>
       </tuv>
       <tuv lang="EN" changeid="miurahr" changedate="20150908T004628Z" creationid="miurahr" creationdate="20150908T004628Z">
@@ -22,10 +278,138 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>あるOSSと一体化したソフトウェア全体に対して、ソースコードの公開等、OSSライセンスの許諾条件の影響がおよぶことを伝搬性の仕組み</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150911T085204Z" creationid="miurahr" creationdate="20150909T013231Z">
+        <seg>Propagation mechanism of OSS license between original software to merged software codes, when aquiring OSS code into another code. As a result, you may be forced to make your code public.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>この回で習得すべき点を以下に示す。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T225948Z" creationid="miurahr" creationdate="20150908T030900Z">
+        <seg>Points for this class</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>さらにその背景にある法務知識としての知的財産権について解説し、OSSに関し現在、社会で問題になって&lt;t2/&gt;いる事例について解説する。</seg>
       </tuv>
-      <tuv lang="EN" changeid="miurahr" changedate="20150908T021304Z" creationid="miurahr" creationdate="20150908T020017Z">
-        <seg>And explain Intelectual property that is background for license. Also explains cases which is issues in sociaty around OSS now.&lt;t2/&gt;</seg>
+      <tuv lang="EN" changeid="miurahr" changedate="20150911T070540Z" creationid="miurahr" creationdate="20150908T020017Z">
+        <seg>And explain Intellectual property that is background for license. Also explains cases which is issues in society around OSS now.&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>その上で、OSSライセンスと、商用ラ&lt;t1/&gt;イセンスについて、対比で違いを把握させる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150911T071621Z" creationid="miurahr" creationdate="20150908T100749Z">
+        <seg>Grab a contrast between OSS licenses and business &lt;t1/&gt; licenses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>その他のリスク</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T101411Z" creationid="miurahr" creationdate="20150908T101411Z">
+        <seg>Other risks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>その他の知財権とOSS</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T013958Z" creationid="miurahr" creationdate="20150908T101159Z">
+        <seg>OSS and another intellectual properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>まず、オー&lt;t0/&gt;プンソース・ソフトウェアの定義を明確にする。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T013348Z" creationid="miurahr" creationdate="20150908T100628Z">
+        <seg>First, clarify an understandings of  definition of &lt;t0/&gt;OSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>また、GPL、MPL、BSD型の各種ライセンスの比較を通して、第3回～第5回の復習をする。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150909T063848Z" creationid="miurahr" creationdate="20150909T063848Z">
+        <seg>Also review 3rd - 4th class by comparison among GPL, MPL and BSD style licenses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>また、『OSSでの知的財産権以外のリスク項目』については、企業では頻繁に利用される用語であることを伝える。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012251Z" creationid="miurahr" creationdate="20150911T063949Z">
+        <seg>Making stress on "Risks other than Intellectual properties in OSS" is common word for corporation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>また、オープンソース・ソフトウェアと著作権の関&lt;t3/&gt;係について、違反によるペナルティーなどの観点から、看過できない問題であると認識させる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T013922Z" creationid="miurahr" creationdate="20150911T064648Z">
+        <seg>Copyright and OSS has a deep relationship &lt;t3/&gt;, and there becomes penalty when infringement of copyright.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>また、オープンソース・ソフトウェアのライセンスの種類が多種存在する事実と背景を説明する。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T100701Z" creationid="miurahr" creationdate="20150908T100701Z">
+        <seg>Understand the fact that there are so many OSS licenses and its background.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>また、クローズとでプロプ&lt;t1/&gt;ライエタリなソフトウェアとオープンソース・ソフトウェアという対比を示すとともに、対比の構図ができあがった過程を把握させる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150911T071326Z" creationid="miurahr" creationdate="20150908T095731Z">
+        <seg>Show comparison among Closed and proprietary &lt;t1/&gt;software and Open Source Software, and illustrate process of completeness.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>また、可能な範囲で、最新の訴訟事例を追加していくことで、学生の興味を高めさせる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T231000Z" creationid="miurahr" creationdate="20150908T231000Z">
+        <seg>Lecturer is requested here to take recent law suit case in the class in order to raise students interest. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>また、大手企業がGPL違反で訴訟問題に巻き込まれている現状と、それを受けて、企業の中でのGPL順守への意識の高まりがあるという動向を把握させる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012650Z" creationid="miurahr" creationdate="20150908T225817Z">
+        <seg>There are several cases that some well-established companies  were challenged in court against GPL infringement. That is why major companies now aware with GPL observance as a trend.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>また、特許権に&lt;t1/&gt;ついては、海外との関係も無視できないため、その点について海外の事例を踏まえて説明する。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150909T063152Z" creationid="miurahr" creationdate="20150909T063152Z">
+        <seg>Also &lt;t1/&gt;patent is an issue in global and explains international legal case of patent. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>また、知的財産権とOSSに関する事項の習得を目指す。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012112Z" creationid="miurahr" creationdate="20150909T052133Z">
+        <seg>Learn about intellectual property and OSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>オ&lt;t0/&gt;ープンソースの開発スタイルについては、パッチ単位で修正を繰り返すＯＳＳの開発スタイル&lt;t1/&gt;では、いつ、誰が修正したのか、その権利はどうなのかを後にトレースする仕組みが弱かった&lt;t2/&gt;という状況を受講生が想像できるように、受講者の背景知識によっては用語の説明を丁寧にす&lt;t3/&gt;る。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012319Z" creationid="miurahr" creationdate="20150909T051751Z">
+        <seg>Detailed explanation of glossary is required in this class. Because student sometimes does not know a OSS development style, which  continuously  change source code by patch  &lt;t0/&gt; makes difficult to track &lt;t1/&gt; the part of source code history, authors, and copyright.&lt;t2/&gt;&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,18 +422,274 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>オープンソース・ソフトウェアのリスクと関係するステークホルダー&lt;t0/&gt;について説明する際には、多くの受講者が含まれるであろう利用者、エンドユーザも含まれることを強調する。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T014045Z" creationid="miurahr" creationdate="20150911T063716Z">
+        <seg>When explaining stakeholders related to risks of Open Source Software, &lt;t0/&gt;there also includes end users, some of who is students.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>オープンソース・ライセンスの概要</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T013247Z" creationid="miurahr" creationdate="20150908T095740Z">
+        <seg>Abstract of Open Source License</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>クラウドやスマートフォンと言った、最近注目のプラットフォームでもOSSのライセンスを無視してビジネスをすることが難しくなっていることを認識させる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012928Z" creationid="miurahr" creationdate="20150908T101929Z">
+        <seg>Open student eyes for difficult things  without OSS license on recent growing platform such as  cloud or smart phone. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>コミュニティの開発スタイル、コミュニティのリスク対策、および企業のリスク対策に関する事項の習得を目指す。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150909T051847Z" creationid="miurahr" creationdate="20150909T051847Z">
+        <seg>Learning development style in OSS community, and risk management in community and company.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ソフトウェアの利用機会やソフトウェアの販売事例などから、&lt;t0/&gt;ソフトウェアの社会における重要性と市場の規模感を実感させる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T095736Z" creationid="miurahr" creationdate="20150908T095714Z">
+        <seg>make understand importance in society and market size of software from use case of software and growth of software business&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ソフトウェアの知財を巡り、訴訟合戦に至ることを認識させる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012702Z" creationid="miurahr" creationdate="20150908T230522Z">
+        <seg>There are many chances  to challenge in court against software intellectual property.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ソフトウェアは家や自動車とは異なる存在、音楽や著作物のようなものと似ているということ</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T031025Z" creationid="miurahr" creationdate="20150908T031025Z">
+        <seg>Software is different with house and car, is rather similar to music and literary work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ソフトウェアは現代社会の中でなくてはならないものになってきていること</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T030931Z" creationid="miurahr" creationdate="20150908T030931Z">
+        <seg>Software becomes vital in modern society.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ソフトウェア特許とOSSの問題は今後の整理が必要であること</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T230354Z" creationid="miurahr" creationdate="20150908T230354Z">
+        <seg>Legal entities such as law maker and law suit  have  pending issues to resolve conflict between OSS and software patent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ソフトウェア特許をめぐる動向</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T101950Z" creationid="miurahr" creationdate="20150908T101950Z">
+        <seg>Trend on software patent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ブラウザの歴史とも関&lt;t0/&gt;連しているため、受講生の年代や、ブラウザの利用履歴などにも可能な範囲で留意して進める。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150909T032552Z" creationid="miurahr" creationdate="20150909T032552Z">
+        <seg>That is depend on history of web browser&lt;t0/&gt;, lecturer should take care of student age and experience which web browser they used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>リスク軽減策の活動事例</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T101315Z" creationid="miurahr" creationdate="20150908T101315Z">
+        <seg>Initiatives to reduce OSS risks </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>一般にソフトウェアは「使用許諾契約書」といった契約書&lt;t0/&gt;によって権利を許諾され、その代金を支払うという形で契約することになっていること</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T095204Z" creationid="miurahr" creationdate="20150908T050129Z">
+        <seg>In general, users use software by getting usable permissions with  "license agreement" contract document&lt;t0/&gt;, that defined  its fee. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>上記の潜在リスクについて、GPLだけでなく、OSSライセンスの意味を正しく理解し、条件を遵守することがリスク低減につながることを認識させる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012503Z" creationid="miurahr" creationdate="20150908T101545Z">
+        <seg>Understand that keeping condition and understand a meaning of OSS license not only GPL also other licenses is a best way for managing and reducing these risks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>世界のOSSライセンスの割合について</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T232534Z" creationid="miurahr" creationdate="20150908T232534Z">
+        <seg>Proportion of OSS licenses in the world</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>代表的なOSSライセンス（BSD型）</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T101142Z" creationid="miurahr" creationdate="20150908T101142Z">
+        <seg>Typical OSS license (BSD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>代表的なOSSライセンス（GPL型）</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T101120Z" creationid="miurahr" creationdate="20150908T101120Z">
+        <seg>Typical OSS license (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>代表的なOSSライセンス（MPL型）</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T101132Z" creationid="miurahr" creationdate="20150908T101132Z">
+        <seg>Typical OSS license (MPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>企業が自社で商用ソフトウェアを開発しており、同時にOSSも活用している場合で、商用ソフトウェアへのOSSソースコードの混入リスクがあることと、それを検証・保証するサービスも存在するという市場が存在することを意識させる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T232430Z" creationid="miurahr" creationdate="20150908T231958Z">
+        <seg>There is a risk to mix in OSS into closed software when company develop production software to sell others and also utilize OSS. There are services and products  to validate source code not to mix in OSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>企業と知的財産管理ビジネス</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150909T063527Z" creationid="miurahr" creationdate="20150909T063527Z">
+        <seg>Company and IP business</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>企業活動でもコミュニティへの貢献に関する方針、コミュニティに関わる従業員への支援&lt;t4/&gt;方針、ＯＳＳに関わる留意点と対策に関する方針、自社開発ソフトウェアをＯＳＳとして公開する際の方針などの検討がなされることを認識させる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150911T064329Z" creationid="miurahr" creationdate="20150911T064329Z">
+        <seg>Companies also make discussion and defining guidelines  for contribution policy,  support program of employers, &lt;t4/&gt;rules to use OSS, policy to publish in-house software as OSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>伝搬性の意味や使&lt;t0/&gt;い方を正しく認識した上で管理しながら利用すればリスクを事前に回避することが可能であるということ</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150911T063543Z" creationid="miurahr" creationdate="20150911T063157Z">
+        <seg>It is possible to avoid risk when using GPL-ed software with correct management, and&lt;t0/&gt;  correct understanding of a meaning of propagation and usage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>具体的な訴訟事例に関する事項の習得を目指す。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T224738Z" creationid="miurahr" creationdate="20150908T224738Z">
+        <seg>Students will learn through items related to actual litigation case.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>内容としては、今後の社会で不可欠な存在になると予想されるOSSについて、OSSの基礎になっている 「ライセンス」 に関する基本を解説している。</seg>
       </tuv>
-      <tuv lang="EN" changeid="miurahr" changedate="20150908T021155Z" creationid="miurahr" creationdate="20150908T021155Z">
-        <seg>There is a content includes basics of OSS lisence, because OSS will be more important than before, and  vital part in future society.</seg>
+      <tuv lang="EN" changeid="miurahr" changedate="20150911T070255Z" creationid="miurahr" creationdate="20150908T021155Z">
+        <seg>There is a content includes basics of OSS license, because OSS will be more important than before, and  vital part in future society.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>各回の詳細</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T030502Z" creationid="miurahr" creationdate="20150908T030502Z">
+        <seg>Descriptions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>各国の「ソフトウェア特許要件(patentability)」の考え方の共通点</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T011931Z" creationid="miurahr" creationdate="20150909T063234Z">
+        <seg>Common part of "software patent-ability" in each country</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>商標権、ブランドといった受講者にとって比較的身近な権利もオープンソー&lt;t0/&gt;ス・ソフトウェアでは関係があり、特にビジネスを考えた際には早期から対応が必要となることを認識させる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012131Z" creationid="miurahr" creationdate="20150910T234142Z">
+        <seg>Rights which are familiar for ordinary users such as trademark and brand, are also &lt;t0/&gt;related to OpenSource Software and it is important to deal with it in early stage for business</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>商標権に関するリスク</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012447Z" creationid="miurahr" creationdate="20150908T101352Z">
+        <seg>Risk on Trademark</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>商用ソフトウェアにおける特許権とOSSにおける特許権の違い</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150909T063328Z" creationid="miurahr" creationdate="20150909T063328Z">
+        <seg>Difference of nature between patent on commercial software and one on OSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>商用ソフトウェアの利用許諾契約書とOSSライセンスの違い</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T013805Z" creationid="miurahr" creationdate="20150908T232828Z">
+        <seg>Difference between "license agreement" in commercial software and OSS licenses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>多くの企業がOSSをビジネスに活用することをすでに実施しており、ビジネスとして市場もできていること</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T231201Z" creationid="miurahr" creationdate="20150908T231201Z">
+        <seg>There are many enterprise utilizing OSS in their business. There  also exist OSS  business market.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>実際にライセンスを選択する際の注意点につい&lt;t2/&gt;て説明する際には、受講生にも関係するようなツールを題材に伝えるなど、当事者意識を持たせる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T013430Z" creationid="miurahr" creationdate="20150908T101054Z">
+        <seg>When explaining caution of choice of license in actual scene, &lt;t2/&gt;accent on sense of ownership, by use  case study that is familiar for student.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>最後に、第3回～第5回で扱ったGPL、MPL、BSD型ライセンスについても再度説明を加えつつ、特許への対応がされている事実と、その内容について把握させる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150909T063031Z" creationid="miurahr" creationdate="20150909T063031Z">
+        <seg>At last, explaines  comparison  from 3rd to 5th class such as GPL, MPL, BSD licenses, and these licenses treats patent issues in its rules.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>本講義の内容は、ソフトウェアとビジネス・社会の接点を他の講義には無い角&lt;t1/&gt;度から解説している点に特徴がある。</seg>
       </tuv>
-      <tuv lang="EN" changeid="miurahr" changedate="20150908T021023Z" creationid="miurahr" creationdate="20150908T015658Z">
-        <seg>There is speciality of this lecture that explains from a view point  of a contact point between software, and business and society &lt;t1/&gt;</seg>
+      <tuv lang="EN" changeid="miurahr" changedate="20150911T070228Z" creationid="miurahr" creationdate="20150908T015658Z">
+        <seg>There is specialty of this lecture that explains from a view point  of a contact point between software, and business and society &lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,18 +702,186 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>特に、GPL、MPL、BSDライセンスについては、具体例を含めて解説をしている。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T025834Z" creationid="miurahr" creationdate="20150908T025834Z">
+        <seg>We explains  with detailed description includes concrete example for GPL, MPL and BSD license.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>特許に関しては企業やコミュニティなどの立場毎に見方が異なること</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T230102Z" creationid="miurahr" creationdate="20150908T230102Z">
+        <seg>There are several different positions on a software patent among companies and communities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>特許に関するリスク</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T101344Z" creationid="miurahr" creationdate="20150908T101344Z">
+        <seg>Risk on Patent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>特許権とOSS</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T232503Z" creationid="miurahr" creationdate="20150908T232503Z">
+        <seg>Patent and OSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>特許権と、ソフトウェアにおける特許権、&lt;t0/&gt;さらにはオープンソース・ソフトウェアにおける特許権について話を進める。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150911T065848Z" creationid="miurahr" creationdate="20150911T065848Z">
+        <seg>Proceed a patent and software patent &lt;t0/&gt;and patent with OSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>現代ではGPLをベースとするソフトウェアなしでは済まない部分もできていることから、GPLを正しく理解して対応することの重要さを認識させる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150909T013014Z" creationid="miurahr" creationdate="20150909T013014Z">
+        <seg>In recent days, it is nothing to do without GPL-ed software, such as Linux, in our life, we should emphasize an importance of correct understandings of GPL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>知的財産に纏わるソフトウェアのトラブル事例</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012532Z" creationid="miurahr" creationdate="20150908T101555Z">
+        <seg>Trouble example related to Intellectual properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>知的財産に関するリスク管理の事例</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T101240Z" creationid="miurahr" creationdate="20150908T101240Z">
+        <seg>Case study for risk management around IP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>知的財産権とは・ソフトウェアとライセンス</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150911T070912Z" creationid="miurahr" creationdate="20150908T030527Z">
+        <seg>What is Intellectual Property - software and license</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>知的財産権につい&lt;t0/&gt;て、全容を把握させることと、オープンソース・ソフトウェアの講義で関係する範囲も意識さ&lt;t1/&gt;せる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T013837Z" creationid="miurahr" creationdate="20150911T064609Z">
+        <seg>&lt;t0/&gt;Make understand the birds-eyes view of Intellectual property &lt;t1/&gt;and scope view from OSS learning course.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第10回から第12回では、OSSコミュニティ、OSSによるビジネスをする企業、OSS関係団体などにおける法律問題への対処などについて解説している。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T030418Z" creationid="miurahr" creationdate="20150908T030418Z">
+        <seg>From 10th to 12th, explains initiatives by OSS community, business entities which use OSS, and associations related OSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第10回教材は、OSSならではのコミュニ&lt;t0/&gt;ティによる開発と、法務分野のリスクについて学習する教材である。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150911T064056Z" creationid="miurahr" creationdate="20150911T063954Z">
+        <seg>In 10th class, it touches &lt;t0/&gt;community based development on OSS project and legal risks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第11回教材は、企業のビジネスとOSSの関係について学習する教材であり、商用ソフトウェアへのOSSのコード混入に関するリスクと対策、OSSの利用時のコンサルテーションと保険サービスに関する事項の習得を目指す。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150909T063714Z" creationid="miurahr" creationdate="20150909T063714Z">
+        <seg>In 11th class material, student learn relationship between company business and OSS. Primary item is a risk and response when merging OSS code into commercial software. Second item is consultation service and insurance service for the risk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第12回教材は、OSSに深く寄与する団体の活動について学習する教材であり、The Linux Foundation の活動、Open Invention Networkの活動、日本における知識獲得の取り組みに関する事項の習得を目指す。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T232159Z" creationid="miurahr" creationdate="20150908T232159Z">
+        <seg>It explains associations deeply related to OSS in 12th class material. Examine detailed in The Linux Foundation, Open Invention Network, and activities in Japan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第13回、第14回でも、OSSライセンスの侵害による具体的な訴訟事例などを解説している。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T030248Z" creationid="miurahr" creationdate="20150908T030248Z">
+        <seg>In13th, 14th lecture, explains specific legal cases in infringement of OSS license.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第13回教材は、OSSによる&lt;t0/&gt;ライセンス侵害の事例について学習する教材である。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012535Z" creationid="miurahr" creationdate="20150908T224645Z">
+        <seg>The materials for 13th class, to learn license infringement case &lt;t0/&gt;example by OSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第14回教材は、いくつかの企業が抱える訴訟問題、ソフトウェア特許とOSSの課題に関する事項の習得を目指す。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T225933Z" creationid="miurahr" creationdate="20150908T225933Z">
+        <seg>There is several lawsuits case and an issue against software patent and OSS in 14th class material.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第15回で全体のまとめと今後のOSSと法的課題について解説している。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T030446Z" creationid="miurahr" creationdate="20150908T030258Z">
+        <seg>In 15th, wrap-ups and discuss future legal issues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第15回教材は、全体のまとめと今後のOSSと法的課題について整理するための教材である。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012923Z" creationid="miurahr" creationdate="20150908T101656Z">
+        <seg>The 15th material is to roundup  series of lectures and forecast future legal issues on OSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>第1回では、今日の社会でのソフトウェアの位置づけ&lt;t0/&gt;、商用ソフトウェアの開発から利用まで、ソフトウェアと知的財産権、オープンソース・ソフトウェアの生い立ちなど、本講義全体を通して学ぶ事項の概要を説明している。</seg>
       </tuv>
-      <tuv lang="EN" changeid="miurahr" changedate="20150908T021727Z" creationid="miurahr" creationdate="20150908T020850Z">
-        <seg>In 1st lecture, explains position of software placed in the current society&lt;t0/&gt;, from development of production software to its application,  software and interectual property, and birth of opensource software. There is brief abstraction of this series of lecutres.</seg>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T013125Z" creationid="miurahr" creationdate="20150908T020850Z">
+        <seg>In 1st lecture, explains position of software placed in the current society&lt;t0/&gt;, from development of commercial software to its application,  software and intellectual property, and birth of Open Source Software. There is brief abstraction of this series of lectures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第1回教材は、今日の社会でのソフトウェアの位置づけ、商用ソフトウェアの開発から&lt;t0/&gt;利用まで、ソフトウェアと知的財産権、オープンソース・ソフトウェアの生い立ちに関する事項の習得を目指す。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T013242Z" creationid="miurahr" creationdate="20150908T030854Z">
+        <seg>A purpose of 1st lecture is acquisition of  position of software in current society,  software life cycle from development of commercial software to utilize of software, &lt;t0/&gt;software and intellectual property, and birth of Open Source Software.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>第2回から第5回までは、ビジネスを意識したライセンスの話題をOSSと商用ラ&lt;t0/&gt;イセンスの違い、主要ライセンス概説、目的に応じたライセンスの選択について説明している。</seg>
       </tuv>
-      <tuv lang="EN" changeid="miurahr" changedate="20150908T021731Z" creationid="miurahr" creationdate="20150908T021731Z">
-        <seg>第2回から第5回までは、ビジネスを意識したライセンスの話題をOSSと商用ラ&lt;t0/&gt;イセンスの違い、主要ライセンス概説、目的に応じたライセンスの選択について説明している。</seg>
+      <tuv lang="EN" changeid="miurahr" changedate="20150911T070801Z" creationid="miurahr" creationdate="20150908T021731Z">
+        <seg>From 2nd to 5th lecture, explains a difference between OSS and production software  licenses especially for applications and issues toward business&lt;t0/&gt;,  and general information of major licenses, selection criteria in response to its purpose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第2回教材は、OSSの定義の説明をした後、OSSと商用ライセンスの違い、主要ライセンス概説、目的に応じたライセンスの選択に関する事項の習得を目指す。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T100234Z" creationid="miurahr" creationdate="20150908T095931Z">
+        <seg>In 2nd class, we will explain the definition of OSS, then showing contrast among OSS and business licenses.  Explaining abstraction of major licenses and share criteria how to select OSS licenses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,10 +894,138 @@
     </tu>
     <tu>
       <tuv lang="JA">
+        <seg>第3回教材は、GPLの歴史・定義・特徴、GPLで配布されているソフトウェア、ライセンスの伝搬性、GPL違反に関する事例など、GPLを取り巻く様々な話題に関する事項の習得を目指す。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150909T052101Z" creationid="miurahr" creationdate="20150909T052101Z">
+        <seg>Express history of GPL, definitions and characteristics of GPL in 3rd class. Also lecture list  major GPL-ed software  up, propagation of license, legal case against GPL.  Understanding many aspect of GPL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第4回教材は、MPLの概要・歴史・特徴、MPL関連ライセンス、MPL関連ライセンスで公開されているソフトウェアに関する事項の習得を目指す。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150909T012603Z" creationid="miurahr" creationdate="20150909T012603Z">
+        <seg>Lecture about topics of MPL in 4th lecture,  such as abstract, history and  characteristics of MPL, relevant licenses of MPL, software which are distributed in MPL and similar licenses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第5回教材は、BSDライセンスの概要・歴史・特徴、BSDスタイルのライセンス、BSDスタイルのライセンスで配付されているソフトウェアに関する事項の習得を目指す。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T013639Z" creationid="miurahr" creationdate="20150909T050422Z">
+        <seg>Abstract of BSD license, history, characteristics and BSD style related licenses, and software which are distributed on BSD style license in 5th class.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第6回から第9回では、知的財産権、著作権、特許権、商標権など、OSSに関連する法制度について説明し、具体的な訴訟事例などを挙げて、法務分野におけるOSSのリスクについて説明している。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T013209Z" creationid="miurahr" creationdate="20150908T030157Z">
+        <seg>From 6th to 9th lecture, we touch a law system such as Intellectual Property, copyright, patent, and trademark. There is a detailed explanation of specific litigation case, in order to discuss OSS risks in legal field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第6回教材は、知的財産権について学習する教材であり、著作権の一般的な説明、および各国の著作権の扱い、著作権とOSSに関する事項の習得を目指す。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T013752Z" creationid="miurahr" creationdate="20150911T064445Z">
+        <seg>In 6th class, learns Intellectual property. There is general explanation of copyright, copyright rule difference among countries, and relation between OSS and copyright. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第7回教材は、特許権について学習する教材であり、特許権の一般的な説明、および各国のソフトウェア特許の扱い、特許権とOSSに関する事項の習得を目指す。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150911T065800Z" creationid="miurahr" creationdate="20150911T065800Z">
+        <seg>In 7th class, focused on patent. Explains generics of patent, difference among country in patent, and relationship between patent and OSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第8回教材は、知財について学習する教材であり、商標権とOSSについて、身近な事例などを紹介した。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012049Z" creationid="miurahr" creationdate="20150909T052259Z">
+        <seg>learned from case study of trademark and OSS, intellectual property in 8th class. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第9回教材は、法務分野におけるOSSのリスクについて学習する教材であり、著作権、特許侵害、訴訟問題に関するリスクと対策に関する事項の習得を目指す。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012024Z" creationid="miurahr" creationdate="20150911T062455Z">
+        <seg>Risks of OSS is a theme of 9th class. Learns  risks and treatment against copyright and patent infringement,  and court challenges.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>第４章&lt;f0&gt; &lt;/f0&gt;GPL違反に関する事例などは、新しい事例があれば追加して説明する。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T013547Z" creationid="miurahr" creationdate="20150909T012807Z">
+        <seg>It is better to explain supplement of the case about GPL infringement, when it &lt;f0&gt;exists&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>総まとめ</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T101612Z" creationid="miurahr" creationdate="20150908T101612Z">
+        <seg>roundup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>著作権とOSS</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T232438Z" creationid="miurahr" creationdate="20150908T232438Z">
+        <seg>Copyright and OSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>著作権については、概念は有名だが具体的な線引きについてはあやふやな理解をしてい&lt;t2/&gt;ることも多いため、正しく理解をさせる。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150909T063507Z" creationid="miurahr" creationdate="20150909T063507Z">
+        <seg>Copyright is well known but understanding is often uncertain &lt;t2/&gt;, teach correctly. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>著作権に関するリスク</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012434Z" creationid="miurahr" creationdate="20150908T101337Z">
+        <seg>Risk on Copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>著作権はソースコードそのものを保護、特許権はソフトウェアの動作原理に関するものであるということ</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150911T071104Z" creationid="miurahr" creationdate="20150908T092858Z">
+        <seg>License will  protect source code itself, but patent covers principle of process in software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>著作権や特許の問題は、訴訟にまでなるということを事例に基づき伝える。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T012213Z" creationid="miurahr" creationdate="20150911T063849Z">
+        <seg>Explain with evidence that Issues form copyright and patent infringement become court challenge. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>訴訟リスク</seg>
+      </tuv>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T101406Z" creationid="miurahr" creationdate="20150908T101406Z">
+        <seg>Risk on judicial action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
         <seg>講義の概要</seg>
       </tuv>
-      <tuv lang="EN" changeid="miurahr" changedate="20150908T004736Z" creationid="miurahr" creationdate="20150908T004736Z">
-        <seg>Brief overview of lecture</seg>
+      <tuv lang="EN" changeid="miurahr" changedate="20150908T030506Z" creationid="miurahr" creationdate="20150908T004736Z">
+        <seg>Brief overview</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,16 +1048,16 @@
       <tuv lang="JA">
         <seg>講義全体の設計に際しては、下記に示す全体の流れに留意して講義を組み立てるように注意されたい。</seg>
       </tuv>
-      <tuv lang="EN" changeid="miurahr" changedate="20150908T005103Z" creationid="miurahr" creationdate="20150908T005103Z">
-        <seg>Note that lectureler should design their lecture course according to following caution.</seg>
+      <tuv lang="EN" changeid="miurahr" changedate="20150912T013049Z" creationid="miurahr" creationdate="20150908T005103Z">
+        <seg>Note that teachers should design their lecture course according to following caution.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="JA">
         <seg>講義全体を通して、実社会での今後の動向を追うための基礎を身につけさせるという目的を持っている。</seg>
       </tuv>
-      <tuv lang="EN" changeid="miurahr" changedate="20150908T021411Z" creationid="miurahr" creationdate="20150908T020105Z">
-        <seg>Throughout a series of lecture, we have a purpose that student learns basics of knowlege to track movement and trend in acutual society.</seg>
+      <tuv lang="EN" changeid="miurahr" changedate="20150911T070638Z" creationid="miurahr" creationdate="20150908T020105Z">
+        <seg>Throughout a series of lecture, we have a purpose that student learns basics of knowlegde to track movement and trend in actual society.</seg>
       </tuv>
     </tu>
     <tu>
